@@ -1,12 +1,13 @@
 # diabetic_etl
-First steps
+##Step 1
 - load packages
 
-1- 
+## Step 2
 - upload data sets
 
-2-
--clean data
+## Step 3
+- clean data
 - normalize data
 
-3- extract datae
+## Step 4
+- extract datae
