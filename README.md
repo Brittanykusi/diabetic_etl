@@ -10,4 +10,4 @@
 - normalize data
 
 ## Step 4
-- extract datae
+- extract data
